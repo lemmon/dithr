@@ -1,0 +1,10 @@
+# build output and regenerable renders (./demo.sh recreates demo/)
+bin/
+demo/
+.DS_Store
+
+# downloaded photos used for the demo (not ours to commit)
+samples/
+
+# style reference taken from a live website (not ours to commit)
+inspiration.*
